@@ -1,66 +1,64 @@
-Here's a 7-day resistance band workout plan tailored for post-partum women looking to lose weight. Remember, it's essential to consult with a physician or physical therapist before beginning any post-partum exercise program. 
-
-Progressive overload will be achieved by increasing the resistance of the band or the number of repetitions.
+Certainly! Here's a 7-day post-partum workout plan using resistance bands and a pull-up bar. Please remember it's essential to consult with a doctor or medical professional before starting any post-partum exercise regimen to ensure it's safe to proceed.
 
 **Day 1: Upper Body & Core**
-
-| Exercise                  | Sets | Reps | Note |
-|--------------------------|-----|-----|------|
-| Band Bicep Curls          | 3   | 12  | Use a light to moderate resistance band |
-| Band Overhead Press       | 3   | 12  | Ensure a comfortable range of motion |
-| Band Rows                 | 3   | 12  | Keep your core tight |
-| Band Pallof Press         | 3   | 12  | Each side |
-| Band Deadbugs             | 3   | 12  | Ensure your back stays flat on the ground |
+| Exercise                                   | Sets | Reps/Time   | Notes                                          |
+|--------------------------------------------|------|------------|------------------------------------------------|
+| Resistance Band Bicep Curls               | 3    | 12         | Stand on band, adjust tension as needed        |
+| Resistance Band Tricep Kickbacks          | 3    | 12         |                                                |
+| Resistance Band Rows                      | 3    | 12         | Anchor band to a sturdy object                 |
+| Hanging Leg Raises (from pull-up bar)     | 3    | 10         | Progress by increasing reps                    |
 
 **Day 2: Lower Body**
+| Exercise                                   | Sets | Reps/Time   | Notes                                          |
+|--------------------------------------------|------|------------|------------------------------------------------|
+| Resistance Band Squats                    | 3    | 15         |                                                |
+| Resistance Band Glute Bridges             | 3    | 15         | Band around thighs, just above knees           |
+| Resistance Band Standing Leg Abduction    | 3    | 12 each leg| Band around ankles                             |
+| Resistance Band Deadlifts                 | 3    | 12         | Stand on band, hold ends at hip height         |
 
-| Exercise                  | Sets | Reps | Note |
-|--------------------------|-----|-----|------|
-| Band Squats               | 3   | 12  | Focus on proper form |
-| Band Glute Bridges        | 3   | 12  | Drive through the heels |
-| Standing Band Leg Abduction | 3   | 12  | Each side |
-| Band Monster Walks        | 3   | 12 steps | Keep tension on the band at all times |
-
-**Day 3: Active Recovery**
-
-Walk for 20-30 minutes, perform light stretches, and focus on breathing exercises.
+**Day 3: Core & Stretching**
+| Exercise                                   | Sets | Reps/Time   | Notes                                          |
+|--------------------------------------------|------|------------|------------------------------------------------|
+| Resistance Band Pallof Press              | 3    | 12 each side|                                                |
+| Knee Raises (from pull-up bar)             | 3    | 10         |                                                |
+| Band Assisted Good Mornings               | 3    | 12         | Band under feet & over shoulders               |
+| Full Body Stretching Routine              | 1    | 10 min     | Focus on major muscle groups                   |
 
 **Day 4: Upper Body & Core**
-
-| Exercise                  | Sets | Reps | Note |
-|--------------------------|-----|-----|------|
-| Band Tricep Kickbacks     | 3   | 12  | Keep the elbow high |
-| Band Front Raises         | 3   | 12  | Control the movement |
-| Band Face Pulls           | 3   | 12  | Focus on squeezing shoulder blades |
-| Band Russian Twists       | 3   | 12  | Each side |
-| Band Plank Pull Through   | 3   | 12  | Maintain a plank position throughout |
+| Exercise                                   | Sets | Reps/Time   | Notes                                          |
+|--------------------------------------------|------|------------|------------------------------------------------|
+| Resistance Band Shoulder Press            | 3    | 12         |                                                |
+| Resistance Band Lateral Raises            | 3    | 12         |                                                |
+| Band-assisted Pull-Ups                    | 3    | 5-8        | Use band for assistance, progress by decreasing assistance |
+| Plank with Resistance Band on Thighs      | 3    | 30s        |                                                |
 
 **Day 5: Lower Body**
+| Exercise                                   | Sets | Reps/Time   | Notes                                          |
+|--------------------------------------------|------|------------|------------------------------------------------|
+| Resistance Band Lateral Walks             | 3    | 12 each direction | Band around thighs                  |
+| Resistance Band Standing Hamstring Curl   | 3    | 12 each leg| Anchor band at low point                      |
+| Resistance Band Sumo Squats               | 3    | 15         | Band around thighs                            |
+| Calf Raises (using pull-up bar for support)|3    | 20         |                                                |
 
-| Exercise                  | Sets | Reps | Note |
-|--------------------------|-----|-----|------|
-| Band Step-Ups             | 3   | 12  | Use a stable platform or step |
-| Band Lateral Leg Raises   | 3   | 12  | Each side |
-| Band Hamstring Curls      | 3   | 12  | Lay on stomach, curl heels to glutes |
-| Band Standing Kickbacks   | 3   | 12  | Focus on squeezing the glutes |
+**Day 6: Core & Stretching**
+| Exercise                                   | Sets | Reps/Time   | Notes                                          |
+|--------------------------------------------|------|------------|------------------------------------------------|
+| Resistance Band Russian Twists            | 3    | 12 each side|                                                |
+| Hanging Windshield Wipers (from pull-up bar)| 3  | 6 each side| Progress by increasing reps                    |
+| Resistance Band Torso Rotation             | 3    | 10 each side| Anchor band to a sturdy object                 |
+| Full Body Stretching Routine              | 1    | 10 min     | Focus on major muscle groups                   |
 
-**Day 6: Flexibility & Mobility**
+**Day 7: Active Recovery**
+| Exercise                                   | Sets | Reps/Time   | Notes                                          |
+|--------------------------------------------|------|------------|------------------------------------------------|
+| Gentle Resistance Band Pull-aparts        | 3    | 12         |                                                |
+| Light Resistance Band Rows                | 3    | 12         | Anchor band to a sturdy object                 |
+| Gentle Walk                               | 1    | 20 min     | Pace should be relaxed and comfortable         |
+| Full Body Stretching Routine              | 1    | 10 min     | Focus on major muscle groups                   |
 
-20 minutes of yoga or static stretching, focusing on areas of tightness or discomfort.
+* **Progressive Overload:** Every week, increase the resistance of the bands if available, increase reps, or both to ensure progress. For exercises like the band-assisted pull-ups, decrease band assistance to increase difficulty.
+* **Warm-Up:** It's a good idea to start each session with a 5-minute warm-up. This can be a brisk walk, marching in place, or gentle dynamic stretches.
+* **Rest Period:** Keep rest periods between 30-60 seconds between sets to keep workouts under 30 minutes.
+* **Cool Down:** End each session with a 5-minute cool down of deep breathing and stretching.
 
-**Day 7: Full Body**
-
-| Exercise                  | Sets | Reps | Note |
-|--------------------------|-----|-----|------|
-| Band Deadlifts            | 3   | 12  | Keep the back straight and core engaged |
-| Band Push-ups             | 3   | 8-12 | Hands on the ground, band across the back |
-| Band Lunges               | 3   | 12  | Each leg |
-| Band Upright Rows         | 3   | 12  | Squeeze the shoulder blades |
-| Band Torso Twists         | 3   | 12  | Each side |
-
-Every week, to achieve progressive overload:
-
-1. Increase the resistance of the band if possible.
-2. Increase the repetitions (up to 15-20), after which you can increase the resistance.
-
-Remember, always warm up before your workouts and cool down afterwards. Staying hydrated, getting proper rest, and maintaining a balanced diet will help in weight loss and muscle recovery.
+I've tried to keep the workouts varied to target different muscle groups and keep the routine engaging. Remember, it's essential to pay attention to how your body feels and progress at your own pace.
