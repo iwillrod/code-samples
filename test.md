@@ -1,3 +1,17 @@
+Here's a 7-day resistance band workout plan tailored for post-partum women looking to lose weight. Remember, it's essential to consult with a physician or physical therapist before beginning any post-partum exercise program. 
+
+Progressive overload will be achieved by increasing the resistance of the band or the number of repetitions.
+
+**Day 1: Upper Body & Core**
+
+| Exercise                  | Sets | Reps | Note |
+|--------------------------|-----|-----|------|
+| Band Bicep Curls          | 3   | 12  | Use a light to moderate resistance band |
+| Band Overhead Press       | 3   | 12  | Ensure a comfortable range of motion |
+| Band Rows                 | 3   | 12  | Keep your core tight |
+| Band Pallof Press         | 3   | 12  | Each side |
+| Band Deadbugs             | 3   | 12  | Ensure your back stays flat on the ground |
+
 **Day 2: Lower Body**
 
 | Exercise                  | Sets | Reps | Note |
@@ -50,4 +64,3 @@ Every week, to achieve progressive overload:
 2. Increase the repetitions (up to 15-20), after which you can increase the resistance.
 
 Remember, always warm up before your workouts and cool down afterwards. Staying hydrated, getting proper rest, and maintaining a balanced diet will help in weight loss and muscle recovery.
-
